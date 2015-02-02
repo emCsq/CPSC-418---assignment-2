@@ -1,8 +1,8 @@
 /***********************************************************
- Name: Emily Chow
+* Name: Emily Chow
 * Course: CPSC 418					Term: Fall 2014
 * Assignment: 2
-*
+* 
 * Class name: Client.java
 *
 ************************************************************/
